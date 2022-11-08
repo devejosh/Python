@@ -1,0 +1,1 @@
+Learning basics of python and Django. 
