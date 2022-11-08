@@ -1,1 +1,1 @@
-Learning basics of python and Django. 
+Setting up Django for the Todo app 
