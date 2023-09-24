@@ -1,6 +1,6 @@
 # Cesar's cypher
 # ==============
-# A program to encrypt a message
+# A program to encrypt a message.
 
 import string
 
