@@ -1,4 +1,7 @@
-# Cesar's cypher.
+# Cesar's cypher
+# ==============
+# A program to encrypt a message
+
 import string
 
 message = input("Please enter the message")
