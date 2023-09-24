@@ -1,0 +1,7 @@
+#Ignored folders
+/Include
+/Lib
+/Scripts
+
+#ignored files
+/pyvenv.cfg
